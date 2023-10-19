@@ -1,0 +1,14 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@web/dev-server": "^0.2.1"
+  }
+}
